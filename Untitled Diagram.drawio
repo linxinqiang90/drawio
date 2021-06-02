@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T02:32:17.193Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="h6wq7yaio1o9Je2QWq8P" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T02:35:09.540Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="q_RG9gWR7kVX9_Cx1hCj" version="14.7.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t9RbnjW_wrMgY7pvLfbR-18" value="抠图" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="610" height="730" as="geometry" />
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value="sever&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="470" y="60" width="100" height="660" as="geometry" />
         </mxCell>
