@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T02:41:44.307Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-7srAte41Icnq-BQzUh5" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T01:15:25.663Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_4Pcv3w7SqFSzNeiRcEY" version="14.7.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t9RbnjW_wrMgY7pvLfbR-18" value="抠图" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t9RbnjW_wrMgY7pvLfbR-18" value="抠图" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="20" width="610" height="730" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value="sever&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -19,10 +19,10 @@
         <mxCell id="KrJD1M74X-GiAtT-vPwU-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="550" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t9RbnjW_wrMgY7pvLfbR-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="t9RbnjW_wrMgY7pvLfbR-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="50" y="458" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t9RbnjW_wrMgY7pvLfbR-2" value="模型&lt;br&gt;任务" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" target="t9RbnjW_wrMgY7pvLfbR-1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="t9RbnjW_wrMgY7pvLfbR-2" value="模型&lt;br&gt;任务" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7baba1c4bc27f4b0-2" target="t9RbnjW_wrMgY7pvLfbR-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="438" as="sourcePoint" />
             <Array as="points">
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9RbnjW_wrMgY7pvLfbR-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="t9RbnjW_wrMgY7pvLfbR-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="50" y="408" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-4" value="obs/oss&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9RbnjW_wrMgY7pvLfbR-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="t9RbnjW_wrMgY7pvLfbR-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="295" y="460" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
