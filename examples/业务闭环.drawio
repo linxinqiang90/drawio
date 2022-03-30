@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T05:51:52.125Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2XzCV-XDlHFRJPxSqqZt" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T05:52:48.047Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="n1r7e1Zfe84hqTU6-xVm" version="16.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="981" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,13 +42,13 @@
         <mxCell id="2-RIii1obnOUTOb9a3gw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="2-RIii1obnOUTOb9a3gw-38" source="2-RIii1obnOUTOb9a3gw-43" target="2-RIii1obnOUTOb9a3gw-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="525" y="50" />
-              <mxPoint x="525" y="110" />
+              <mxPoint x="620" y="80" />
+              <mxPoint x="620" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-43" value="创建活动,关联集团任务指标" style="whiteSpace=wrap;html=1;fontColor=#000000;fontSize=8;" vertex="1" parent="2-RIii1obnOUTOb9a3gw-38">
-          <mxGeometry x="440" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="10" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2-RIii1obnOUTOb9a3gw-38" source="2-RIii1obnOUTOb9a3gw-41" target="2-RIii1obnOUTOb9a3gw-43">
           <mxGeometry relative="1" as="geometry">
@@ -66,10 +66,10 @@
           <mxGeometry x="270" y="90" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-47" value="以活动创建子任务分割指标到导购" style="whiteSpace=wrap;html=1;fontSize=8;fontColor=#000000;" vertex="1" parent="2-RIii1obnOUTOb9a3gw-38">
-          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-53" value="汇总指标" style="whiteSpace=wrap;html=1;fontSize=8;rounded=0;" vertex="1" parent="2-RIii1obnOUTOb9a3gw-38">
-          <mxGeometry x="700" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-94" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;entryX=0.003;entryY=0.842;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2-RIii1obnOUTOb9a3gw-38" source="2-RIii1obnOUTOb9a3gw-41" target="2-RIii1obnOUTOb9a3gw-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,10 +117,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-48" value="导购接收任务和指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="530" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-51" value="海报,点赞方式完成指标" style="whiteSpace=wrap;html=1;fontSize=8;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="700" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2-RIii1obnOUTOb9a3gw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-24" target="2-RIii1obnOUTOb9a3gw-40">
           <mxGeometry relative="1" as="geometry">
