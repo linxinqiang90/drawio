@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:47:19.422Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vvmGoSbznBXdnPh-AMI6" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:49:30.050Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2Zhy56RuKUEZjfcwABO9" version="22.1.4" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1434" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry x="45" y="185" width="10" height="205" as="geometry" />
         </mxCell>
         <mxCell id="BY2PhTdTkIcpq-fQkNb2-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7baba1c4bc27f4b0-4">
-          <mxGeometry x="50" y="305" width="10" height="40" as="geometry" />
+          <mxGeometry x="50" y="305" width="10" height="75" as="geometry" />
         </mxCell>
         <mxCell id="BY2PhTdTkIcpq-fQkNb2-13" value="根据任务中&lt;br&gt;图片进行合成" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="BY2PhTdTkIcpq-fQkNb2-12" parent="7baba1c4bc27f4b0-4">
           <mxGeometry relative="1" as="geometry">
@@ -58,11 +58,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BY2PhTdTkIcpq-fQkNb2-30" value="合成完成sql&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;根据id更新任务状态" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-4" target="7baba1c4bc27f4b0-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="350" as="sourcePoint" />
+            <mxPoint x="140" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="BY2PhTdTkIcpq-fQkNb2-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7baba1c4bc27f4b0-5">
-          <mxGeometry x="40" y="410" width="10" height="140" as="geometry" />
+          <mxGeometry x="44" y="410" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-17" value="创建任务sql" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -122,6 +128,9 @@
             <mxPoint x="720" y="592" as="sourcePoint" />
             <mxPoint x="460" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BY2PhTdTkIcpq-fQkNb2-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="725" y="397" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
