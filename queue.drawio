@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T09:01:25.815Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LpSzWLMCxekDFXGeEKLM" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T09:01:32.094Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="oh-8ZW8BwSXJ_xl5Brkz" version="24.4.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1434" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -113,9 +113,6 @@
             <mxPoint x="587" y="588" as="sourcePoint" />
             <mxPoint x="156" y="588" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kQ5KQbVI-URMLvRePfGQ-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="565" y="340" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
