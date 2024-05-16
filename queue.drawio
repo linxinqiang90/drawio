@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T09:01:32.094Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="oh-8ZW8BwSXJ_xl5Brkz" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T09:02:05.136Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="AzeLK8WpKg2e9CUR5yg0" version="24.4.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1434" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
             <mxPoint x="158" y="244.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQ5KQbVI-URMLvRePfGQ-37" value="访问应用页面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="kQ5KQbVI-URMLvRePfGQ-37" value="访问 重定向后页面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="156" y="567" as="sourcePoint" />
             <mxPoint x="587" y="565" as="targetPoint" />
