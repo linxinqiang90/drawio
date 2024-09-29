@@ -3,7 +3,8 @@ nit
 
 #### 处理流图
 ![image][img_flow]
-fda
+
+![test](https://ask.qcloudimg.com/http-save/yehe-4172423/nyvdk564ef.png)
 
 ##### nginx
 ```config
